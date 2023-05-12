@@ -62,7 +62,7 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      I patronized Ehizeex and when He delivered, I honestly
+                      I patronized Maryna and when she delivered, I honestly
                       fell in love with the project He is a very honest guy and
                       he delivers ontime.
                       <i className="fa fa-quote-right" />
@@ -98,8 +98,8 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      It was nice hiring this guy for my e-commerce project.He
-                      delivered even more than i can imagine. I recommend him
+                      It was nice hiring Maryna for my e-commerce project.He
+                      delivered even more than I can imagine. I recommend her
                       for you.
                       <i className="fa fa-quote-right" />
                     </p>
@@ -133,8 +133,8 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      When he delivered my job, my head spinned, it was so nice
-                      and he implemented every functionality i requested for.
+                      When she delivered my job, my head spinned, it was so nice
+                      and she implemented every functionality I requested for.
                       Thank you.
                       <i className="fa fa-quote-right" />
                     </p>
@@ -168,9 +168,9 @@ export default function Testimonial(props) {
                   <div className="testi-comment">
                     <p>
                       <i className="fa fa-quote-left" />
-                      This guy is incredibly awesome, I hired him and when He
-                      delivered, I honestly fell in love with the project. He is
-                      indeed a great guy,
+                      Maryna is incredibly awesome, I hired her and when she
+                      delivered, I honestly fell in love with the project. She is
+                     very professional developer.
                       <i className="fa fa-quote-right" />
                     </p>
                     <ul className="stars list-unstyled">
